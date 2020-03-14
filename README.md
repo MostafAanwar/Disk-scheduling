@@ -1,6 +1,6 @@
 # Disk-scheduling
 This is a java program that has different types of disk scheduling algorithms
-
+[![Run on Repl.it](https://repl.it/badge/github/MostafAanwar/Disk-scheduling)](https://repl.it/github/MostafAanwar/Disk-scheduling)
 # FCFS: 
 
 FCFS is the simplest of all the Disk Scheduling Algorithms. In FCFS, the requests are addressed in the order they arrive in the disk queue.
@@ -17,4 +17,3 @@ In SCAN algorithm, the disk arm again scans the path that has been scanned, afte
 # CLOOK: 
 CLOOK is similar to CSCAN disk scheduling algorithm. In CLOOK, the disk arm in spite of going to the end goes only to the last request to be serviced in front of the head and then from there goes to the other end’s last request. Thus, it also prevents the extra delay which occurred due to unnecessary traversal to the end of the disk.
 
-[![Run on Repl.it](https://repl.it/badge/github/MostafAanwar/Disk-scheduling)](https://repl.it/github/MostafAanwar/Disk-scheduling)
