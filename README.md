@@ -1,6 +1,6 @@
 # Disk-scheduling
 This is a java program that has different types of disk scheduling algorithms
-[![Run on Repl.it](https://repl.it/badge/github/MostafAanwar/Disk-scheduling)](https://repl.it/github/MostafAanwar/Disk-scheduling)
+
 # FCFS: 
 
 FCFS is the simplest of all the Disk Scheduling Algorithms. In FCFS, the requests are addressed in the order they arrive in the disk queue.
